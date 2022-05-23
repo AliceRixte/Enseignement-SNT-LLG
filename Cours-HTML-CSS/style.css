@@ -1,0 +1,17 @@
+
+div{
+  border-style : solid;
+  border-width : 2px;
+  width : 45%; 
+  float : left;
+  padding : 3px;
+  margin : 5px;
+}
+.consequences{
+  background-color: #EE201088;
+  border-color : #EE2010FF; 
+}
+#definition-harcelement{
+  background-color: #00000055;
+  border-color : #000000FF; 
+}
